@@ -1,0 +1,16 @@
+.img_container {
+  width: 400px;
+  height: 250px;
+  display: inline-block;
+  background-color: #007bff;
+  border-radius: 10px;
+  padding-top: 25px;
+  border: 2px solid black;
+}
+
+
+
+.img_container img {
+  width: 200px;
+  height: 200px;
+}
